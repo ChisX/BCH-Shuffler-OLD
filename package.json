@@ -1,0 +1,15 @@
+{
+  "name": "bch-shuffler",
+  "version": "1.0.0",
+  "description": "Bitcoin Cash Coinjoin programming module, based on asychronous implementation of bch.js",
+  "license": "MIT",
+  "author": "Arcane Technologies",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@psf/bch-js": "^4.20.9",
+    "bitcoincashjs-lib": "^3.3.3"
+  }
+}
